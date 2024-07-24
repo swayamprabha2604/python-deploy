@@ -1,0 +1,38 @@
+Welcome to the Airline Help Desk! How can I assist you today?
+
+You: my flight is delayed
+Bot: I'm sorry to hear that. Could you please provide your flight details?
+
+You: i have lost my luggage
+Bot: Let's solve this. Can you share your baggage claim ticket number?
+
+You: what is my flight status
+Bot: Sure, I can help with that. What is your flight number and departure date?
+
+You: i want to cancel my flight booking how can i do that
+Bot: I apologize for the inconvenience. Could you please provide your booking reference?
+
+You: i want to cancel booking
+Bot: I'm here to help. Can you share your booking reference?
+
+You: what is the price for singapore flight
+Bot: Sure, I can help with that. Please provide your departure and destination cities.
+
+You: can you tell me the business class flight price
+Bot: I can assist you with fare information. What are your departure and destination cities?
+
+You: can i get the refund of my flight
+Bot: To proceed with the cancellation, I'll need your booking reference.
+
+You: can i schedule my flight
+Bot: To check your flight status, please provide your flight number and departure date.
+
+You: what is the runway number of my flight
+Bot: Let me know how I can help you.
+
+You: what is the time of my flight taking off
+Bot: Let me know how I can help you.
+
+You: quit
+Thank you for using the Airline Help Desk. Goodbye!
+
